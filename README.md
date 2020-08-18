@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, 
+### welcome to my repository on my journey of scientific curiosity
+
+- 🔭 I’m currently working on biomedical image processing algorithms using deep learning and machine learning techniques.
 
 <!--
 **makquel/makquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
