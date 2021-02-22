@@ -2,7 +2,7 @@
 ### welcome to my repository on my journey of scientific curiosity
 
 - 🔭 I’m currently working on biomedical image processing algorithms using deep learning and machine learning techniques.
-![CS_skills](https://github.com/makquel/makquel/blob/master/chart)
+<!-- ![CS_skills](https://github.com/makquel/makquel/blob/master/chart) -->
 
 <!--
 **makquel/makquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
