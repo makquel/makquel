@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on biomedical image processing algorithms using deep learning and machine learning techniques.
 <!-- ![CS_skills](https://github.com/makquel/makquel/blob/master/chart) -->
 
+![makquel's github stats](https://github-readme-stats.vercel.app/api?username=makquel&count_private=true&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makquel)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **makquel/makquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
