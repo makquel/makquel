@@ -1,11 +1,16 @@
 ### Hi there, 
-### welcome to my repository on my journey of scientific curiosity
+### welcome to my repository on my journey of scientific curiosity.
 
-🔭 **I’m currently working** on biomedical image processing algorithms using deep learning and machine learning techniques.
+🔭 **I’m currently working** as a Machine Learning Engineer for Marketplace and Ads at [MercadoLibre]()
 
-🌱 **I’m currently learning** about MLops tecnologies 
+🌱 **I’m currently learning** about Kubernetes.
 
-📫 **How to reach me**: makquel@gmail.com 
+📫 **How to reach me**: [emailto](makquel@gmail.com), [linkedin](https://www.linkedin.com/in/macardenas/)
+
+⚡ Public repos that I contribute to:
+- [LightGBM](https://github.com/microsoft/LightGBM)
+- [dask](https://github.com/dask/dask)
+
 <!-- ![CS_skills](https://github.com/makquel/makquel/blob/master/chart) -->
 |       |  |
 | :----: |    :----:   |
